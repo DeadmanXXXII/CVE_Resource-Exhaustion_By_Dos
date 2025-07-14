@@ -26,6 +26,10 @@ I have already applied for a CVE number for this.
 
 ![Response](https://raw.githubusercontent.com/DeadmanXXXII/CVE_Resource-Exhaustion_By_Dos/main/Screenshot_20250714-173234.png)
 
+![Response](https://raw.githubusercontent.com/DeadmanXXXII/CVE_Resource-Exhaustion_By_Dos/main/Screenshot_20250714-174205.png)
+
+![Response](https://raw.githubusercontent.com/DeadmanXXXII/CVE_Resource-Exhaustion_By_Dos/main/Screenshot_20250714-174215.png)
 Thanks for reading.
+
 
 
