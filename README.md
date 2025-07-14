@@ -5,6 +5,11 @@ Pulling the data from the requested server even a status code 404 still uses res
 
 Each of these is already loaded just find one that suits your needs.
 
+### double_barrell.py amendment for test use without proxies.
+Line 39
+```python
+proxies = None #{"http": proxy, "https": proxy}
+```
 I have already applied for a CVE number for this.
 
 ![Application](https://raw.githubusercontent.com/DeadmanXXXII/CVE_Resource-Exhaustion_By_Dos/main/Screenshot_20250714-165801.png)
