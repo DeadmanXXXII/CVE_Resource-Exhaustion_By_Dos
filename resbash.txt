@@ -1,4 +1,1 @@
-for i in $(seq -w 1 999); do
-    echo "Testing ID: $i" | tee -a results.txt
-    curl -I -L "https://fsp.bamboohr.com/careers/$i" 2>&1 | tee -a results.txt
-done
+for i in $(seq -w 001 999); do                                                          echo "Testing ID: $i" | tee -a results.txt                                              curl -s -o /dev/null -w "%{http_code}\n" -I -L "https://fsp.bamboohr.com/careers/$i" | tee -a results.txt                                                                       sleep 1
