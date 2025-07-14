@@ -10,4 +10,4 @@ I have already applied for a CVE number for this.
 
 ![Response](https://raw.githubusercontent.com/DeadmanXXXII/CVE_Resource-Exhaustion_By_Dos/main/Screenshot_20250714-170009.png)
 
-https://github.com/DeadmanXXXII/CVE_Resource-Exhaustion_By_Dos/tree/main
+Thanks for reading.
