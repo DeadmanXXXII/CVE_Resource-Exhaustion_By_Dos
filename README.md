@@ -1,6 +1,7 @@
 # CVE_Resource-Exhaustion_By_Dos
 CVE Resource-Exhaustion By Dos due to ordered directories.
 This CVE is found in most applications and can cause severe damage through network congestion, memory corruption, processing flaws and more.
+Pulling the data from the requested server even a status code 404 still uses resources to search, not find, pull page headers and html in request.
 
 Each of these is already loaded just find one that suits your needs.
 
