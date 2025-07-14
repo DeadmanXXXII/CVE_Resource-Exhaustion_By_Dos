@@ -10,6 +10,13 @@ Line 39
 ```python
 proxies = None #{"http": proxy, "https": proxy}
 ```
+
+### fache.py
+Line 30
+uncomment.
+```python
+num_requests = 100000
+```
 I have already applied for a CVE number for this.
 
 ![Application](https://raw.githubusercontent.com/DeadmanXXXII/CVE_Resource-Exhaustion_By_Dos/main/Screenshot_20250714-165801.png)
